@@ -8,6 +8,6 @@ Console.WriteLine("[E]xit");
 
 String userChoice = Console.ReadLine();
 Console.WriteLine("User input:" + userChoice);
-userChoice = "ABCD"; 
+userChoice = "ABC"; 
 
 Console.ReadKey();
